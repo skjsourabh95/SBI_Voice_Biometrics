@@ -23,7 +23,7 @@ The following are the expectations from the prototype:
 
 ## Solution Architecture - PROD
 
-![alt text](./Idea/images/arch.png)
+![alt text](./idea/images/arch.png)
 
 ## Solution Samples
 
