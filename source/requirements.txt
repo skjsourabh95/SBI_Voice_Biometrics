@@ -1,0 +1,8 @@
+## ffmpeg or avconv required
+azure-storage-blob  
+speechbrain
+torchaudio
+speechbrain
+transformers
+pydub
+azurebatchload

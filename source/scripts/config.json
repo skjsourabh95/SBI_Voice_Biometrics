@@ -1,0 +1,4 @@
+{
+    "connect_str" : "DefaultEndpointsProtocol=https;AccountName=techgig;AccountKey=RcPuGMrA8+Pq4EQlMp0yhu95QjWLBOPXnXI+hOdMTQRNi9wDzN+TVIMxGchSAozHpdqMRVJWUAj/+AStkoEjrg==;EndpointSuffix=core.windows.net",
+    "container_name" : "voicebiometrics"
+}
